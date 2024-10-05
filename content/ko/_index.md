@@ -81,8 +81,8 @@ sections:
   - block: slider
     content:
       slides:
-      - title: 👋 Welcome to the group
-        content: Take a look at what we're working on...
+      - title: 
+        content: ''
         align: center
         background:
           image:
@@ -91,22 +91,22 @@ sections:
               brightness: 0.7
           position: right
           color: '#666'
-      - title: Lunch & Learn ☕️
-        content: 'Share your knowledge with the group and explore exciting new topics together!'
+      - title: 
+        content: ''
         align: left
         background:
           image:
-            filename: contact.jpg
+            filename: icon.png
             filters:
               brightness: 0.7
           position: center
           color: '#555'
-      - title: World-Class Semiconductor Lab
-        content: 'Just opened last month!'
+      - title: 
+        content: ''
         align: right
         background:
           image:
-            filename: welcome.jpg
+            filename: goodbye.png
             filters:
               brightness: 0.5
           position: center
@@ -114,16 +114,16 @@ sections:
         link:
           icon: graduation-cap
           icon_pack: fas
-          text: Join Us
+          text: 연락처
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: ''
+      slide_height: '400px'
       is_fullscreen: true
       # Automatically transition through slides?
       loop: true
       # Duration of transition between slides (in ms)
-      interval: 2000
+      interval: 500
 
 
   - block: markdown
