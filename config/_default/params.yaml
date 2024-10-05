@@ -32,12 +32,12 @@ marketing:
 header:
   navbar:
     enable: true
-    align: r
+    align: "center"
+    fix_to_top: true
     show_logo: true
-      logo:
-        filename: "logo.png"
-    show_language: true
-    show_day_night: true
+    logo:
+      filename: "logo.png"
+    show_theme_chooser: true
     show_search: true
     highlight_active_link: false
 
