@@ -1,8 +1,8 @@
 ---
 title: 과제 1번
 
-subject: 개인 웹사이트 만들기
-subject_url: https://classroom.google.com/c/NzA1NzExNTAxMjAz/a/NzE0MDA1NDk0OTM0/details
+event: 개인 웹사이트 만들기
+event_url: https://classroom.google.com/c/NzA1NzExNTAxMjAz/a/NzE0MDA1NDk0OTM0/details
 
 location: 구글 클래스룸
 

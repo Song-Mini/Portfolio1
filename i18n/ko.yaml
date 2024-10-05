@@ -172,9 +172,6 @@
   translation: 마지막 업데이트
 
 - id: event
-  translation: 이벤트
-
-- id: subject
   translation: 주제
 
 - id: location
