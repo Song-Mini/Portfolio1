@@ -35,13 +35,13 @@ header:
     blox: "navbar"
     align: r
     fix_to_top: true
-    show_logo: true
-    show_title: true
-    title:
-      text: "SMG Page"
-    logo:
-      filename: "logo.png"
-      text: "SMG Page"
+    #show_logo: true
+    #show_title: true
+    #title:
+    #  text: "SMG Page"
+    #logo:
+    #  filename: "logo.png"
+    #  text: "SMG Page"
     show_search: true
     highlight_active_link: false
 
