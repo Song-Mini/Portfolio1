@@ -58,7 +58,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-  - student
+  - Student
 ---
 
 현재 전북대학교 컴퓨터인공지능학부에 재학 중인 송민규 입니다.   
