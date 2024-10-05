@@ -36,11 +36,10 @@ header:
     align: r
     fix_to_top: true
     show_logo: true
+    show_title: true
     logo:
       filename: "logo.png"
       text: "SMG Page"
-    theme: 
-      displayToggle: true
     show_search: true
     highlight_active_link: false
 
