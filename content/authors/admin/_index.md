@@ -3,8 +3,8 @@
 title: 송민규
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: MinGyu
+last_name: Song
 
 # Is this the primary user of the site?
 superuser: true
