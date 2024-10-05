@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Song Mingyu
+title: 송민규
 
 # Full Name (for SEO)
-first_name: Mingyu
-last_name: Song
+first_name: 민규
+last_name: 송
 
 # Is this the primary user of the site?
 superuser: true
