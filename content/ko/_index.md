@@ -115,7 +115,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: 연락처
-          url: ../contact/
+          url: ../ko/contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
       slide_height: '400px'
