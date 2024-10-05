@@ -83,7 +83,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        {{% cta cta_link="./people/" cta_text="저를 소개합니다 →" %}}
     design:
       columns: '1'
 ---

@@ -151,6 +151,9 @@
 - id: book_appointment
   translation: 일정 약속
 
+- id: student
+  translation: 학생
+
 # Publication/Event details
 
 - id: abstract
