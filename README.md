@@ -1,4 +1,5 @@
-# [Hugo Research Group Theme](https://github.com/wowchemy/starter-hugo-research-group)
+
+# [링크](https://song-mini.github.io/)
 
 [![Screenshot](preview.png)](https://hugoblox.com/hugo-themes/)
 
