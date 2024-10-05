@@ -32,10 +32,11 @@ marketing:
 header:
   navbar:
     enable: true
-    align: "center"
+    align: r
     fix_to_top: true
     show_logo: true
     logo:
+      text: "SMG Page"
       filename: "logo.png"
     show_theme_chooser: true
     show_search: true
