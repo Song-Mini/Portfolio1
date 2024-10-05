@@ -35,7 +35,7 @@ header:
     blox: "navbar"
     align: r
     fix_to_top: true
-    show_logo: true
+    #show_logo: true
     logo:
       text: "SMG Page"
       filename: "logo.png"
