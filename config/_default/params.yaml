@@ -37,8 +37,8 @@ header:
     fix_to_top: true
     show_logo: true
     logo:
+      filename: "logo.png"
       text: "SMG Page"
-      #filename: "logo.png"
     show_theme_chooser: true
     show_search: true
     highlight_active_link: false
