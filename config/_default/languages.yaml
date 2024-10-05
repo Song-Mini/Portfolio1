@@ -7,7 +7,7 @@
 
 en:
   languageCode: en-us
-  contentLanguageCode: content/en
+  contentDir: content/en
 
 ko:
   languageCode: ko

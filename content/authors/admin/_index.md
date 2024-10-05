@@ -10,22 +10,22 @@ last_name: 송
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student / JBNU
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
+  - name: 전북대학교 
     url: ''
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - 인공지능 분야
+  - 빅데이터 분야
+  - 웹사이트 개발
 
-education:
+education: 
   courses:
     - course: PhD in Artificial Intelligence
       institution: Stanford University
@@ -44,16 +44,10 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: google-scholar
-    icon_pack: ai
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:smg0824@jbnu.ac.kr'
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Song-Mini
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,7 +58,7 @@ social:
 email: ''
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
