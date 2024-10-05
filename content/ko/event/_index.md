@@ -1,5 +1,5 @@
 ---
-title: Recent & Upcoming Events
+title: 앞으로의 계획
 
 # Listing view
 view: compact
