@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Nelson Bighetti
+title: 송민규
 
 # Full Name (for SEO)
 first_name: Nelson
