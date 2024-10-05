@@ -8,14 +8,10 @@ sections:
   - block: hero
     content:
       title: |
-        Wowchemy
-        Research Group
       image:
-        filename: welcome.jpg
+        filename: Hello.jpg
       text: |
         <br>
-        
-        The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
   
   - block: collection
     content:
