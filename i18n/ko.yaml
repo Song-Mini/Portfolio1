@@ -157,7 +157,7 @@
 # Publication/Event details
 
 - id: abstract
-  translation: 초록
+  translation: 개요
 
 - id: publication
   translation: 발행기관
