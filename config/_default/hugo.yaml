@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: SMG pages # Website name
-baseURL: 'https://example.com/Song-Mini' # Website URL
+baseURL: 'https://Song-Mini.github.io' # Website URL
 
 ############################
 ## LANGUAGE
