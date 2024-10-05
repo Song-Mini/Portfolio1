@@ -40,7 +40,7 @@ header:
       filename: "logo.png"
       text: "SMG Page"
     theme: 
-      display: true
+      displayToggle: true
     show_search: true
     highlight_active_link: false
 
