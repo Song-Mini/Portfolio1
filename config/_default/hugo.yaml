@@ -5,15 +5,6 @@
 
 title: SMG pages # Website name
 baseURL: 'https://Song-Mini.github.io' # Website URL
-params:
-  navbar:
-    displayTitle: true
-    displayLogo: true
-    logo:
-      path: images/logo.png
-      link: /
-      width: 40
-      height: 20
 
 ############################
 ## LANGUAGE
