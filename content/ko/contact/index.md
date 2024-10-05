@@ -9,7 +9,6 @@ sections:
     content:
       title: 연락
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer tempus augue non tempor egestas. Proin nisl nunc, dignissim in accumsan dapibus, auctor ullamcorper neque. Quisque at elit felis. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Aenean eget elementum odio. Cras interdum eget risus sit amet aliquet. In volutpat, nisl ut fringilla dignissim, arcu nisl suscipit ante, at accumsan sapien nisl eu eros.
       email: smg0824@jbnu.ac.kr
       phone: 010 9027 2961
       address:
@@ -20,8 +19,8 @@ sections:
         country: 대한민국
         country_code: KO
       coordinates:
-        latitude: '35.4753'
-        longitude: '126.5242'
+        latitude: '35.7979'
+        longitude: '126.8787'
       appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
