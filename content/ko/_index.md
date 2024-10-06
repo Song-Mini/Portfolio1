@@ -94,13 +94,13 @@ sections:
 
   - block: collection
     content:
-      title: Latest Preprints
+      title: 출신 학교
       text: ""
       count: 5
       filters:
         folders:
           - publication
-        publication_type: 'article'
+        publication_type: '학교'
     design:
       view: citation
       columns: '1'
