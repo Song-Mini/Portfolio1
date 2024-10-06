@@ -37,7 +37,7 @@ tags: []
 # Display this page in the Featured widget?
 featured: true
 
-Custom links (uncomment lines below)
+#Custom links (uncomment lines below)
 links:
 - name: 전북대학교
   url: https://www.jbnu.ac.kr
