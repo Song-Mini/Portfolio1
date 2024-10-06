@@ -1,5 +1,5 @@
 ---
-title: 사진
+title: Photo
 
 # Listing view
 view: compact
