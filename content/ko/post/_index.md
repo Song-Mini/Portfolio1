@@ -2,8 +2,7 @@
 title: 사진
 
 # Listing view
-column: '2'
-view: showcase #compact
+view: compact
 
 # Optional banner image (relative to `assets/media/` folder).
 banner:
