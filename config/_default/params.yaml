@@ -59,8 +59,8 @@ footer:
 # Localization
 
 locale:
-  date_format: '2006년 1월 2일'
-  time_format: '오후 3:04'
+  date_format: '2006. 01. 02'
+  time_format: '15:04'
 
 # Site features
 
