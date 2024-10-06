@@ -163,7 +163,7 @@
   translation: 발행기관
 
 - id: publication_type
-  translation: 출판유형
+  translation: 유형
 
 - id: date
   translation: 날짜
@@ -224,7 +224,7 @@
   translation: Slides
 
 - id: authors
-  translation: Authors
+  translation: 대학생
 
 # Search
 
