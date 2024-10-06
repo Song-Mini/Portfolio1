@@ -16,7 +16,7 @@ main:
   - name: Plan
     url: event
     weight: 40
-  - name: Publications
+  - name: Related
     url: publication
     weight: 50
   - name: Contact
