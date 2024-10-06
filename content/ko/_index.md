@@ -55,7 +55,7 @@ sections:
   
   - block: collection
     content:
-      title: Latest News
+      title: 최근 사진
       subtitle:
       text:
       count: 5
